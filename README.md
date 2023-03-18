@@ -2,8 +2,8 @@
 
 [MBK keycap profile](https://fkcaps.com/keycaps/mbk) has been designed by **mburger** and is being manufactured by [FKcaps](https://fkcaps.com). They are low profile keycaps, meant to fit Kailh Choc switches.
 
-> These models are provided for ***rendering purpose only*** and are not licensed for any other commercial use than renderings.
-> If you require other formats you may convert them to suite your needs in other software like mesh mixer but these convert files may only only be for personal use and may not be shared. 
+> These models are provided for ***rendering purpose only*** and are not licensed for any other commercial/manufacturing use.
+> If you require other formats you may convert them to suite your needs in other software like mesh mixer but these convert files may only be for personal use and may not be shared. 
 
 ## Sizes included
 
